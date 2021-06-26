@@ -1,12 +1,12 @@
 # python-oo-pair-project 🐍 🙌
 
-### Discuss with your partner and choose between the two project options, Wheel of Fortune ⚙️ or Pig 🎲.
+### For this week, you will choose between the two project options, Wheel of Fortune ⚙️ or Pig 🎲.
 
 ## In either case, here are the steps you should follow. Remember to run your code frequently.
-1. Read the specs for your project and make sure you both have the same understanding of them.
+1. Read the specs for your project and re-state them to yourself to make sure you understand them and ask for clarification where needed.
 2. Decide the order of priority for meeting the requirements.
 3. Sketch/map out your game.
-4. Set up VS Code screen share, so you are both typing in the same VS Code project.
+4. Set up a file in VS Code for your project.
 5. From the sketch process, determine what classes you will need. You might find this [list](https://stackoverflow.com/questions/4203163/how-do-i-design-a-class-in-python) helpful.
 6. Build each class one at a time.
 7. Build the action of the game one step at a time, adding methods to classes as you deem necesary. 
