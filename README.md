@@ -1,4 +1,4 @@
-# python-oo-pair-project 🐍 🙌
+# Object Oriented Python Project 🐍 🙌
 
 ### For this week, you will choose between the two project options, Wheel of Fortune ⚙️ or Pig 🎲.
 
